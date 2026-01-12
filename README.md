@@ -4,10 +4,6 @@ This is a Jupyter notebook applying a [multinomial naïve Bayes classifier](http
 
 Completed in 2022 as a personal project (as a master's student of theoretical and applied linguistics at Moscow State University at that moment).
 
-### Performance on the test set
-
-![Performance metrics on the test set](./performance-metrics-barplots.png "Performance metrics on the test set")
-
 ### Output examples
 
 ```
@@ -71,3 +67,7 @@ class probabilities:
       world news:       0.00%
 
 ```
+
+### Performance on the test set
+
+![Performance metrics on the test set](./performance-metrics-barplots.png "Performance metrics on the test set")
